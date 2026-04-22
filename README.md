@@ -39,12 +39,6 @@ Dependencies yang dibutuhkan:
 
 ## 🚀 Cara Menggunakan
 
-### Program Versi Basic (Tkinter Standard)
-```bash
-python image_enhancement.py
-```
-
-### Program Versi Advanced (CustomTkinter - Recommended)
 ```bash
 python image_enhancement_advanced.py
 ```
